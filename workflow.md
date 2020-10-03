@@ -1,5 +1,3 @@
-### 개발실무팀플 WorkFlow <br>
-#### Member <br>
 ## 개발실무팀플 WorkFlow <br>
 
 <br>
@@ -11,6 +9,7 @@
 
 - 가정 <br>
   우리 팀은 A회사에서 진행하는 B프로젝트에 참여하고 있다. 이 프로젝트는 여러 팀이 참여하고 있으며, 각 팀 별로 필요한 기능을 분담하여 서로 다른 디렉토리에 작업한다. <br>
+
 <br>
 
 ### **가정** <br>
@@ -38,4 +37,5 @@ ___
 
 이를 feature 브랜치라고 하자.
 
-![feature 브랜치](../IOFT_FLOW/img/featureBranch.jpg)
+
+![feature 브랜치](./img/featureBranch.JPG)
