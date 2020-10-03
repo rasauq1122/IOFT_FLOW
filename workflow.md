@@ -24,4 +24,4 @@ ___
 
 이를 feature 브랜치라고 하자.
 
-![feature 브랜치](./img/featureBranch.jpg)
+![feature 브랜치](./img/featureBranch.JPG)
