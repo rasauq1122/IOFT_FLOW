@@ -21,3 +21,4 @@ issue가 발생한 feature 브랜치에서 issue를 해결하기 위한 issue �
 개발 상황과 issue 처리 상황을 구분한다. <br>
 issue 처리가 완료되면 issue 브랜치를 부모 브랜치로 합병한 후 해당 브랜치는 제거한다. <br>
 
+![issue 브랜치](./img/issueBranch.jpg)
