@@ -26,7 +26,7 @@ ___
 프로젝트 리더가 B 프로젝트 repository를 개설한 후, master 브랜치에는 정식 출시 버전만 올릴 수 있도록 개발 버전을 저장하기 위한 develop 브랜치를 만든다.<br>
 또, 각 팀 별로 개발을 나누어 할 수 있도록develop 브랜치를 여러 개의 team 브랜치로 나눈다.<br>
 
-![team 브랜치](../IOFT_FLOW/img/teamBranch.png)
+![team 브랜치](./img/teamBranch.png)
 
 <br>
 
@@ -38,4 +38,4 @@ ___
 
 이를 feature 브랜치라고 하자.
 
-![feature 브랜치](../IOFT_FLOW/img/featureBranch.jpg)
+![feature 브랜치](./img/featureBranch.JPG)
