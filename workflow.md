@@ -39,6 +39,7 @@ ___
 <br>
 
 ### **TODO - 팀원** <br>
+___
 팀원은 팀장이 fork한 repository를 fork한 후,<br>
 자신이 맡은 feature 브랜치를 checkout하여 개발을 진행한다.<br>
   
@@ -56,6 +57,7 @@ issue 처리가 완료되면 issue 브랜치를 부모 브랜치로 합병한 �
 <br>
 
 ### **PR & merge 규칙**
+___
   1. 프로젝트는 계층적인 구조를 띤다. (issue ⊂ feature ⊂ team ⊂ project)
   2. 모든 개발은 상위 원격 저장소 중 가장 가까운 저장소를 자신의 repository로 fork한 후에 진행하도록 한다.
   3. branch 간 merge는 함부로 하지 않는다. merge 권한은 다음을 따르도록 한다.<br/>
